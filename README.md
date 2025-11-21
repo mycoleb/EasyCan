@@ -2,6 +2,15 @@ Next-Generation Border Visit Tracking & Screening System
 
 A Modern, Scalable, Evidence-Based Approach to Immigration Screening
 
+TLDR
+#The current system 
+involves a primary screening that gives very little information. It says when a person has visited the country, for how long they've visited, who they were with, and whether they are "red flagged" as suspicious or not. The secondary screening has more info like by what method and where they crossed the border, more extensive background check including searching all 50 states and territories records. 
+
+#My System 
+would add more secondary screening info to the primary screening including the results of the most recent background check, it would also add a two factor system where the traveler and the border agent can write the same number for how many days the person plans to be in the country.
+
+My system would make it so border agents can see whether a traveler has stayed the lengths of time they said they'd stay so they don't end up interrogating the same person for an hour 53 times over the course of 7 years.
+
  Overview
 
 The Next-Generation Border Visit Tracking & Screening System is a proposed redesign of traditional immigration screening processes. Its goal is to create a more efficient, consistent, scalable, and evidence-based system for processing millions of international visits per year.
